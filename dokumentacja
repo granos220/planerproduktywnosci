@@ -1,0 +1,94 @@
+1. Strona tytułowa:
+PROJEKT SEMESTRALNY INF.04
+Wieloplatformowy system zarządzania zadaniami
+„Planer Produktywności”
+Wykonał:
+[Gracjan Witucki]
+Klasa:
+[4pT]
+ Rok:
+2026
+Celem projektu było stworzenie wieloplatformowego systemu zarządzania
+zadaniami.
+System umożliwia:
+- logowanie użytkownika
+- tworzenie zadań
+- edycję zadań
+- usuwanie zadań
+- filtrowanie danych
+- oznaczanie zadań jako wykonane
+Projekt został wykonany w technologii:
+- Angular
+- ASP.NET Core Web API
+- Windows Forms
+- .NET MAUI
+- SQLite
+System działa na platformie webowej, desktopowej oraz mobilnej.
+System musi umożliwiać:
+- dodawanie zadań
+- edycję danych
+- usuwanie danych
+- logowanie użytkownika
+- filtrowanie zadań
+- wyszukiwanie danych
+- eksport danych CSV
+- wyświetlanie zadań na dziś
+System powinien:
+- działać szybko
+- posiadać responsywny interfejs
+- posiadać prostą obsługę
+- działać na różnych platformach
+- korzystać ze wspólnej bazy danych
+Do wykonania projektu wykorzystano:
+Frontend web:
+- Angular
+Backend:
+- ASP.NET Core Web API
+Aplikacja desktopowa:
+- Windows Forms C#
+Aplikacja mobilna:
+- .NET MAUI
+Baza danych:
+- SQLite
+Kontrola wersji:
+- Git + GitHub
+Aplikacja webowa umożliwia:
+- logowanie użytkownika
+- rejestrację
+- dodawanie zadań
+- edycję zadań
+- filtrowanie danych
+- przegląd szczegółów zadania
+Aplikacja desktopowa umożliwia:
+- pełny CRUD
+- wyszukiwanie danych
+- sortowanie
+- eksport CSV
+- walidację formularzy
+Aplikacja mobilna umożliwia:
+- logowanie
+- dodawanie zadań
+- oznaczanie zadań jako wykonane
+- wyświetlanie zadań na dziś
+1. Otworzyć projekt backend-api
+2. Uruchomić Visual Studio
+3. Kliknąć Start / F5
+4. Backend uruchomi się na localhost
+1. Otworzyć terminal
+2. Przejść do folderu angular-web
+3. Wykonać komendę:
+ npm install
+4. Następnie:
+ ng serve
+5. Otworzyć localhost:4200
+1. Otworzyć projekt desktop-app
+2. Kliknąć F5
+3. Aplikacja uruchomi się automatycznie
+Projekt został wykonany zgodnie z wymaganiami INF.04
+Utworzono:
+- aplikację webową
+- aplikację desktopową
+- aplikację mobilną
+- backend API
+- bazę danych SQLite
+Projekt wykorzystuje system kontroli wersji Git oraz repozytorium GitHub.
