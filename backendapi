@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gracj\\Desktop\\backendapi\\",
+  "Documents": [],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": []
+    }
+  ]
+}
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gracj\\Desktop\\backendapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{390E0928-6A1A-43FB-BEBC-1A74138EE3EF}|backendapi\\backendapi.csproj|c:\\users\\gracj\\desktop\\backendapi\\backendapi\\controll\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390E0928-6A1A-43FB-BEBC-1A74138EE3EF}|backendapi\\backendapi.csproj|solutionrelative:backendapi\\controll\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390E0928-6A1A-43FB-BEBC-1A74138EE3EF}|backendapi\\backendapi.csproj|c:\\users\\gracj\\desktop\\backendapi\\backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390E0928-6A1A-43FB-BEBC-1A74138EE3EF}|backendapi\\backendapi.csproj|solutionrelative:backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390E0928-6A1A-43FB-BEBC-1A74138EE3EF}|backendapi\\backendapi.csproj|c:\\users\\gracj\\desktop\\backendapi\\backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{390E0928-6A1A-43FB-BEBC-1A74138EE3EF}|backendapi\\backendapi.csproj|solutionrelative:backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390E0928-6A1A-43FB-BEBC-1A74138EE3EF}|backendapi\\backendapi.csproj|c:\\users\\gracj\\desktop\\backendapi\\backendapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390E0928-6A1A-43FB-BEBC-1A74138EE3EF}|backendapi\\backendapi.csproj|solutionrelative:backendapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390E0928-6A1A-43FB-BEBC-1A74138EE3EF}|backendapi\\backendapi.csproj|c:\\users\\gracj\\desktop\\backendapi\\backendapi\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390E0928-6A1A-43FB-BEBC-1A74138EE3EF}|backendapi\\backendapi.csproj|solutionrelative:backendapi\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\gracj\\Desktop\\backendapi\\backendapi\\Controll\\TasksController.cs",
+              "RelativeDocumentMoniker": "backendapi\\Controll\\TasksController.cs",
+              "ToolTip": "C:\\Users\\gracj\\Desktop\\backendapi\\backendapi\\Controll\\TasksController.cs",
+              "RelativeToolTip": "backendapi\\Controll\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:51:54.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gracj\\Desktop\\backendapi\\backendapi\\Program.cs",
+              "RelativeDocumentMoniker": "backendapi\\Program.cs",
+              "ToolTip": "C:\\Users\\gracj\\Desktop\\backendapi\\backendapi\\Program.cs",
+              "RelativeToolTip": "backendapi\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:50:58.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gracj\\Desktop\\backendapi\\backendapi\\appsettings.json",
+              "RelativeDocumentMoniker": "backendapi\\appsettings.json",
+              "ToolTip": "C:\\Users\\gracj\\Desktop\\backendapi\\backendapi\\appsettings.json",
+              "RelativeToolTip": "backendapi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-11T08:50:48.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gracj\\Desktop\\backendapi\\backendapi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "backendapi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gracj\\Desktop\\backendapi\\backendapi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "backendapi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:50:12.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\gracj\\Desktop\\backendapi\\backendapi\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "backendapi\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\gracj\\Desktop\\backendapi\\backendapi\\Models\\TaskItem.cs",
+              "RelativeToolTip": "backendapi\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:49:38.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  }
+}
+
+{
+    "Logging": {
+        "LogLevel": {
+            "Default": "Information",
+            "Microsoft.AspNetCore": "Warning"
+        }
+    },
+
+    "AllowedHosts": "*",
+
+    "ConnectionStrings": {
+        "DefaultConnection": "Data Source=planer.db"
+    }
+}
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+</Project>
+
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ActiveDebugProfile>https</ActiveDebugProfile>
+    <Controller_SelectedScaffolderID>MvcControllerEmptyScaffolder</Controller_SelectedScaffolderID>
+    <Controller_SelectedScaffolderCategoryPath>root/Common/MVC/Controller</Controller_SelectedScaffolderCategoryPath>
+  </PropertyGroup>
+</Project>
+@backendapi_HostAddress = http://localhost:5217
+
+GET {{backendapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+using Microsoft.AspNetCore.Mvc;
+using backendapi.Data;
+using backendapi.Models;
+
+namespace backend_api.Controllers
+{
+    [ApiController]
+
+    [Route("api/[controller]")]
+    public class TasksController : ControllerBase
+    {
+        private readonly AppDbContext _context;
+
+        public TasksController(AppDbContext context)
+        {
+            _context = context;
+        }
+
+        [HttpGet]
+        public IActionResult GetTasks()
+        {
+            return Ok(_context.Tasks.ToList());
+        }
+
+        [HttpGet("{id}")]
+        public IActionResult GetTask(int id)
+        {
+            var task = _context.Tasks.Find(id);
+
+            if (task == null)
+                return NotFound();
+
+            return Ok(task);
+        }
+
+        [HttpPost]
+        public IActionResult AddTask(TaskItem task)
+        {
+            _context.Tasks.Add(task);
+
+            _context.SaveChanges();
+
+            return Ok(task);
+        }
+
+        [HttpPut("{id}")]
+        public IActionResult UpdateTask(int id, TaskItem updatedTask)
+        {
+            var task = _context.Tasks.Find(id);
+
+            if (task == null)
+                return NotFound();
+
+            task.Title = updatedTask.Title;
+
+            task.Description = updatedTask.Description;
+
+            task.Status = updatedTask.Status;
+
+            task.Category = updatedTask.Category;
+
+            task.DueDate = updatedTask.DueDate;
+
+            _context.SaveChanges();
+
+            return Ok(task);
+        }
+
+        [HttpDelete("{id}")]
+        public IActionResult DeleteTask(int id)
+        {
+            var task = _context.Tasks.Find(id);
+
+            if (task == null)
+                return NotFound();
+
+            _context.Tasks.Remove(task);
+
+            _context.SaveChanges();
+
+            return Ok();
+        }
+    }
+}
+using Microsoft.AspNetCore.Mvc;
+
+namespace backendapi.Controllers
+{
+    [ApiController]
+    [Route("[controller]")]
+    public class WeatherForecastController : ControllerBase
+    {
+        private static readonly string[] Summaries = new[]
+        {
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+        };
+
+        private readonly ILogger<WeatherForecastController> _logger;
+
+        public WeatherForecastController(ILogger<WeatherForecastController> logger)
+        {
+            _logger = logger;
+        }
+
+        [HttpGet(Name = "GetWeatherForecast")]
+        public IEnumerable<WeatherForecast> Get()
+        {
+            return Enumerable.Range(1, 5).Select(index => new WeatherForecast
+            {
+                Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
+                TemperatureC = Random.Shared.Next(-20, 55),
+                Summary = Summaries[Random.Shared.Next(Summaries.Length)]
+            })
+            .ToArray();
+        }
+    }
+}
+
+using Microsoft.EntityFrameworkCore;
+using backendapi.Models;
+using System.Collections.Generic;
+
+namespace backend_api.Data
+{
+    public class AppDbContext : DbContext
+    {
+        public AppDbContext(DbContextOptions<AppDbContext> options)
+        : base(options)
+        {
+
+        }
+
+        public DbSet<TaskItem> Tasks { get; set; }
+    }
+}
+namespace backendapi.Models
+{
+    public class TaskItem
+    {
+        public int Id { get; set; }
+
+        public string Title { get; set; }
+
+        public string Description { get; set; }
+
+        public string Status { get; set; }
+
+        public string Category { get; set; }
+
+        public DateTime DueDate { get; set; }
+    }
+}
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gracj\\Desktop\\backendapi\\backendapi\\backendapi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gracj\\Desktop\\backendapi\\backendapi\\backendapi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gracj\\Desktop\\backendapi\\backendapi\\backendapi.csproj",
+        "projectName": "backendapi",
+        "projectPath": "C:\\Users\\gracj\\Desktop\\backendapi\\backendapi\\backendapi.csproj",
+        "packagesPath": "C:\\Users\\gracj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gracj\\Desktop\\backendapi\\backendapi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gracj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\gracj\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.13.2</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\gracj\.nuget\packages\" />
+    <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.apidescription.server\6.0.5\build\Microsoft.Extensions.ApiDescription.Server.props" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.apidescription.server\6.0.5\build\Microsoft.Extensions.ApiDescription.Server.props')" />
+    <Import Project="$(NuGetPackageRoot)swashbuckle.aspnetcore\6.6.2\build\Swashbuckle.AspNetCore.props" Condition="Exists('$(NuGetPackageRoot)swashbuckle.aspnetcore\6.6.2\build\Swashbuckle.AspNetCore.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgMicrosoft_Extensions_ApiDescription_Server Condition=" '$(PkgMicrosoft_Extensions_ApiDescription_Server)' == '' ">C:\Users\gracj\.nuget\packages\microsoft.extensions.apidescription.server\6.0.5</PkgMicrosoft_Extensions_ApiDescription_Server>
+  </PropertyGroup>
+</Project>
